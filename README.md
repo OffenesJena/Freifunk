@@ -7,5 +7,5 @@ Currently this project is build for:
 * ALIX 2C2 boards with enough space on a CF card
 * 2x Atheros AR5213A WLAN chipsets
 
-
-Please look into the wiki for more documentation: https://github.com/OffenesJena/Freifunk/wiki
+Please read the wiki if you want to know more:
+https://github.com/OffenesJena/Freifunk/wiki
